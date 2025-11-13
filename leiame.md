@@ -7,29 +7,36 @@
   
 </p> 
 
+
 <img src="./img/dio.png" alt="DIO Logo" width="200"/>
 <img src="./img/logoChatGPT.jpg" alt="ChatGPT Logo" width="200"/>
-<img src="./img/logoLexica.jpeg" alt="logoLexica Logo" width="200"/>
+<img src="./img/MidJourney.jpg" alt="logoLMidJourneyexica Logo" width="200"/>
+<img src="./img/ElevenLabs.jpeg" alt="ElevenLabs Logo" width="200"/>
+<img src="./img/Capcut.jpeg" alt="Capcut Logo" width="200"/>
 
-# Curso Criando Artigos Técnicos com ChatGPT e Lexica.art
+# Curso Criando Podcast Gerado por I.A.s
 
-Este repositório contém materiais desenvolvido durante o curso Criando Artigos Técnicos com ChatGPT e Lexica.art oferecido pela [DIO](https://www.youtube.com/watch?v=ktfS6qIy7XM).
+Este repositório contém materiais desenvolvido durante o curso Projeto Podcast Gerado por I.A.s
 
 ## Descrição
 
-AProjeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável.
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+
+Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## Tecnologias utilizadas no projeto
-- ChatGPT - para título e conteúdo
-- Lexica.art - para gerar imagens
-- PowerPoint - Para formatação de banners e Layouts
+- [ChatGPT](https://chat.openai.com/) 
+- [MidJourney](https://www.midjourney.com/app/)
+- [ElevenLabs](https://beta.elevenlabs.io/)
+- [Capcut](https://www.capcut.com/pt-br/)
 
-## Prompts
-ChatGPT：
-[Visualizar prompts](./prompts.txt)
+## ✨ Como foi feito ?
 
-## Artigo
-https://web.dio.me/articles/como-usar-o-tinkercad-para-simular-circuitos-eletronicos-em-minutos-mesmo-sem-saber-programar-ef34ce7e8e12?back=/articles
+- Roteiro gerado via chatgpt
+- Audio gerado pela elevenLabs
+- Midjourney Para gerar capas
+- Capcut para tratar aúdio e adicionar sons de fundo
+
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
