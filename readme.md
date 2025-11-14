@@ -10,7 +10,7 @@
 
 <img src="./img/dio.png" alt="DIO Logo" width="200"/>
 <img src="./img/logoChatGPT.jpg" alt="ChatGPT Logo" width="200"/>
-<img src="./img/MidJourney.jpg" alt="logoLMidJourneyexica Logo" width="200"/>
+<img src="./img/MidJourney.jpg" alt="MidJourney Logo" width="200"/>
 <img src="./img/ElevenLabs.jpeg" alt="ElevenLabs Logo" width="200"/>
 <img src="./img/Capcut.jpeg" alt="Capcut Logo" width="200"/>
 
@@ -39,7 +39,7 @@ Uses a prompt pipeline to produce each stage of the creative process.
 
 ## Podcast
 
-[Listen to the complete podcast](./outputs/Podcast.mp3)
+<a href="./outputs/Podcast.mp3" download>Listen to the complete podcast</a>
 
 ## ebook
 
