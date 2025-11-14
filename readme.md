@@ -37,6 +37,14 @@ Uses a prompt pipeline to produce each stage of the creative process.
 - MidJourney to create cover images
 - Capcut to process audio and add background sounds
 
+## Podcast
+
+[Listen to the complete podcast](./outputs/Podcast.mp3)
+
+## ebook
+
+[MESTRE DA CORRENTE - DOMINE OHM E RESISTORES NA PRÁTICA](./ebook%20MESTRE%20DA%20CORRENTE%20-%20DOMINE%20OHM%20E%20RESISTORES%20NA%20PR%C3%81TICA.pdf)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.

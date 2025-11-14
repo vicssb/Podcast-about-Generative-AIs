@@ -37,6 +37,17 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Midjourney Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
+## Podcast
+
+[Ouça o podcast completo](./outputs/Podcast.mp3)
+
+
+## ebook
+
+[MESTRE DA CORRENTE - DOMINE OHM E RESISTORES NA PRÁTICA](./ebook%20MESTRE%20DA%20CORRENTE%20-%20DOMINE%20OHM%20E%20RESISTORES%20NA%20PR%C3%81TICA.pdf)
+
+
+
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
